@@ -1,7 +1,7 @@
 {
   "name": "jibo-sdk",
   "main": "./lib/jibo-sdk",
-  "version": "1.7.3",
+  "version": "1.7.4",
   "description": "Jibo SDK",
   "keywords": [],
   "activationCommands": {},
