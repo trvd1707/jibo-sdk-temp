@@ -1,0 +1,17 @@
+{
+  "name": "jibo-sdk",
+  "main": "./lib/jibo-sdk",
+  "version": "1.7.2",
+  "description": "Jibo SDK",
+  "keywords": [
+  ],
+  "activationCommands": {
+  },
+  "repository": "https://github.com/jiborobot/jibo-sdk",
+  "license": "SEE LICENSE IN LICENSE.txt",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}
